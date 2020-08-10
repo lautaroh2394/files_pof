@@ -1,4 +1,0 @@
-#Sun Aug 09 23:07:51 ART 2020
-base.0=D\:\\Users\\Lau\\Documents\\AndroidStudio\\files_pof\\files_pof\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
